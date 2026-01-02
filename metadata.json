@@ -1,0 +1,7 @@
+{
+  "name": "ONE10 EXPRESS",
+  "description": "High-security document portal with dual-access encryption. Admin and Client tiers enforced via secure ciphers (2892/0852).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
